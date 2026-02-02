@@ -21,6 +21,9 @@ Il progetto simula un sistema a **multitransport (XTS/Mover)** con 4 carrelli in
 * **Gestione Scarti (Reject Logic):** Se l'emergenza avviene durante una fase critica (es. avvolgimento), il pezzo viene marcato come "difettoso" e conteggiato separatamente dagli scarti a fine linea.
 * **Simulazione Fisica:** Logica di accelerazione/decelerazione del mandrino e calcolo dei tempi di processo realistici.
 
+## Screenshots
+![Panoramica Impianto](screenshots/overview.png)
+
 ## Struttura dell'Impianto
 
 La simulazione gestisce il ciclo di vita del prodotto attraverso 3 stazioni principali:
