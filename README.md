@@ -22,7 +22,7 @@ Il progetto simula un sistema a **multitransport (XTS/Mover)** con 4 carrelli in
 * **Simulazione Fisica:** Logica di accelerazione/decelerazione del mandrino e calcolo dei tempi di processo realistici.
 
 ## Screenshots
-![Panoramica Impianto](screenshots/overview.png)
+![Panoramica Impianto](images/overview.png)
 
 ## Struttura dell'Impianto
 
