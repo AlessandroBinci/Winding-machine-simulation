@@ -24,6 +24,9 @@ Il progetto simula un sistema a **multitransport (XTS/Mover)** con 4 carrelli in
 ## Screenshots
 ![Panoramica Impianto](images/overview.png)
 
+## Screenshots
+![Esempio](images/example2.png)
+
 ## Struttura dell'Impianto
 
 La simulazione gestisce il ciclo di vita del prodotto attraverso 3 stazioni principali:
